@@ -1,4 +1,4 @@
-# Project: # Lasso Regression
+# Lasso Regression
 --- 
 
 ## Table of Contents
@@ -12,7 +12,6 @@
 7. Potential Issues
 8. Output and Visualizations
 9. Question and Answers
-10. Contributors
 ---
 
 ## Introduction
